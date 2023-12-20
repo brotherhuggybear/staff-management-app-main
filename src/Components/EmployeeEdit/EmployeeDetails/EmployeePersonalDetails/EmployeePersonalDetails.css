@@ -1,0 +1,18 @@
+.personal-details {
+    border: 1px solid grey;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#detalii-personale {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.details-fields {
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+    float: right;
+}

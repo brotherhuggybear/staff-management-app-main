@@ -1,0 +1,11 @@
+.cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
+
+.filter-input {
+    width: 340px;
+    font-size: 15px;
+}

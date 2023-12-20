@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table tr {
+    border: 1px solid  #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr:hover {
+    background-color:  rgb(217, 251, 255);
+}
+
+table tr td:hover {
+    scale: 1.2;
+}
+
+header {
+    margin: 20px;
+}
+
+header h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(27, 139, 164);
+}
+
+.table-container {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.employee-details-btn {
+    font-size: 20px;
+    background: none;
+}

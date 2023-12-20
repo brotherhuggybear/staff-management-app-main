@@ -1,0 +1,46 @@
+.employment-details {
+    border: 1px solid grey;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#detalii-personale {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.select-options {
+    width: 100px;
+    float: right;
+    font-size: 20px;
+}
+
+.acte-angajare {
+    display:flex;
+    flex-direction: row;
+}
+
+span {
+    display: flex;
+    width: 60px;
+    height: 70px;
+    flex-direction: column;
+    border: 1px solid grey;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-right: -1px;
+    margin-top: 5px;
+}
+
+.input-check {
+    width: 20px;
+}
+
+.details-fields {
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+    float: right;
+}

@@ -1,0 +1,18 @@
+.feedback-list {
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+    /* flex-wrap: wrap;
+    align-content: center; */
+}
+
+.feedback-forms {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+

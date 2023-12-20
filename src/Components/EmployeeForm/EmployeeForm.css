@@ -1,0 +1,41 @@
+.employee-form {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    
+}
+
+.employee-details-card {
+    display: flex;
+    flex-direction: row;
+}
+
+.employee-personal-details, .employee-work-details {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px ;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 10px;
+    font-size: 20px;
+}
+
+input {
+    height: 50px;
+}
+
+.save-button {
+    margin-top: 100px;
+    display: flex;
+    background-color: rgb(66, 238, 221);
+    width:fit-content;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.save-button:hover {
+    background-color: aquamarine;
+}

@@ -1,0 +1,11 @@
+.add-new-button {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+
+}
+
+button {
+    border: none;
+    background-color: #ffff;
+}

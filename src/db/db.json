@@ -1,0 +1,143 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Constantin",
+      "surname": "Andreescu",
+      "birth_date": "11.04.1990",
+      "phone_number": "0721359873",
+      "email": "constantin.new.a@gmail.com",
+      "location": "UMF",
+      "hiring_date": "23.08.2023",
+      "job": "Barista",
+      "salary": "2050 lei",
+      "dosar_la_locatie": "Nu",
+      "check_box_IG": true,
+      "check_box_AM": true,
+      "check_box_DIP": true,
+      "feedback": [
+        "29.11.2023\n\nYou have consistently shown improvement in your skillset, and it’s positively impacting our team’s performance. Well done",
+        "29.11.2023\n\n\ngood job!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Andreea",
+      "surname": "Buturuga",
+      "birth_date": "10.05.1990",
+      "phone_number": "0721359875",
+      "email": "constantin.e@gmail.com",
+      "location": "UMF",
+      "hiring_date": "23.08.2023",
+      "job": "Barista",
+      "salary": "2050 lei",
+      "dosar_la_locatie": " "
+    },
+    {
+      "id": 3,
+      "name": "Ioana",
+      "surname": "Iliescu",
+      "birth_date": "10.05.1990",
+      "phone_number": "0721359875",
+      "email": "constantin.e@gmail.com",
+      "location": "Palas",
+      "hiring_date": "09.07.2022",
+      "job": "Barista",
+      "salary": "2050 lei",
+      "dosar_la_locatie": " ",
+      "feedback": [
+        "23.11.2023\n\nYou often miss deadlines. Prioritizing your tasks will help ensure that critical projects are completed on time."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Alexandra",
+      "surname": "Albu",
+      "birth_date": "09.07.1988",
+      "phone_number": "0748761206",
+      "email": "albu.c.alexandra@gmail.com",
+      "location": "Birou",
+      "hiring_date": "11.04.2022",
+      "job": "Manager",
+      "salary": "4000 lei",
+      "dosar_la_locatie": " "
+    },
+    {
+      "id": 5,
+      "name": "Larisa",
+      "surname": "Ceanga",
+      "birth_date": "09.20.1990",
+      "phone_number": "0749223589",
+      "email": "lary.ceanga@gmail.com",
+      "location": "Birou",
+      "hiring_date": "05.06.2018",
+      "job": "Web designer",
+      "salary": "5100 lei",
+      "dosar_la_locatie": " "
+    },
+    {
+      "id": 6,
+      "name": "Cornel",
+      "surname": "Romaniuc",
+      "birth_date": "11.29.1988",
+      "phone_number": "0721598732",
+      "email": "cornel.romani@gmail.com",
+      "location": "Birou",
+      "hiring_date": "03.02.2023",
+      "job": "Operator facturare",
+      "salary": "3500 lei",
+      "dosar_la_locatie": " "
+    },
+    {
+      "id": 7,
+      "name": "Dragos",
+      "surname": "Ionescu",
+      "birth_date": "10.12.2000",
+      "phone_number": "0759451221",
+      "email": "ionescu.dragos@gmail.com",
+      "location": "Birou",
+      "hiring_date": "10.12.2020",
+      "job": "Responsabil aprovizionare",
+      "salary": "2950",
+      "dosar_la_locatie": " "
+    },
+    {
+      "id": 8,
+      "name": "Laura",
+      "surname": "Ionescu",
+      "birth_date": "10.30.2000",
+      "phone_number": "0723587981",
+      "email": "ionescu.laura@gmail.com",
+      "location": "Birou",
+      "hiring_date": "11.29.2022",
+      "job": "Operator calculator",
+      "salary": "2185",
+      "dosar_la_locatie": "Da"
+    },
+    {
+      "id": 9,
+      "name": "Iulian",
+      "surname": "Cozoroc",
+      "birth_date": "10.31.2023",
+      "phone_number": "0722456789",
+      "email": "cozoroc.laura@gmail.com",
+      "location": "Copou",
+      "hiring_date": "11.05.2021",
+      "job": "Barista",
+      "salary": "2350",
+      "dosar_la_locatie": "Nu"
+    },
+    {
+      "id": 11,
+      "name": "Iulian",
+      "surname": "Cocut",
+      "birth_date": "12.20.1990",
+      "phone_number": "0758423125",
+      "email": "cocut.i@gmail.com",
+      "location": "Depozit",
+      "hiring_date": "12.20.2010",
+      "job": "Sofer",
+      "salary": "4500"
+    }
+  ]
+}
